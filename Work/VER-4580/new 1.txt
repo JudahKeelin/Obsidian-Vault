@@ -1,0 +1,14 @@
+
+
+getDescendents(PimsComponent component, long[] deadComponents) {
+	var descendents[];
+	var children = getDirectChildren(component.Id);
+	foreach(child of children) {
+		if (deadComponents.contains(child.Id) {
+			descendents.Add(fixTree(child));
+		} else {
+			descendents.Add(kid);
+		}
+	}
+	return descendents;
+}

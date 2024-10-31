@@ -1,0 +1,7 @@
+- [ ] Learn About Pagination
+	- [ ] [Enumerable.Skip]([Enumerable.Skip<TSource>(IEnumerable<TSource>, Int32) Method (System.Linq) | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.skip?view=net-8.0))
+	- [ ] [Enumerable.Take]([Enumerable.Take Method (System.Linq) | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.take?view=net-8.0))
+- [x] Create New Breadcrumb Contract Model ✅ 2024-08-16
+- [ ] Implement New Model
+- [ ] Implement Breadcrumbs On Front
+- [ ] Implement Pagination
