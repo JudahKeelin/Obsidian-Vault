@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github Token.md",
+                "file": "Rubik's Cube Solving Robot Reddit Post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Github Token"
+              "title": "Rubik's Cube Solving Robot Reddit Post"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github Token.md"
+                "file": "Rubik's Cube Solving Robot Reddit Post.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Github Token"
+              "title": "Outline of Rubik's Cube Solving Robot Reddit Post"
             }
           },
           {
@@ -175,8 +175,8 @@
   },
   "active": "8679e50d968221af",
   "lastOpenFiles": [
-    "Rubik's Cube Solving Robot Reddit Post.md",
     "Github Token.md",
+    "Rubik's Cube Solving Robot Reddit Post.md",
     "Main",
     "Untitled/Rubik's Cube Solving Robot Reddit Post.md",
     "Welcome.md"
