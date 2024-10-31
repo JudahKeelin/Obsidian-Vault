@@ -13,29 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Rubik's Cube Solving Robot Reddit Post.md",
+                "file": "Github Token.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rubik's Cube Solving Robot Reddit Post"
-            }
-          },
-          {
-            "id": "6504f36e6bed1c3a",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-git/main.js",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (main.js)"
+              "title": "Github Token"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Github Token.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Github Token"
             }
           },
           {
@@ -185,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6504f36e6bed1c3a",
+  "active": "8679e50d968221af",
   "lastOpenFiles": [
+    "Rubik's Cube Solving Robot Reddit Post.md",
     "Github Token.md",
-    "Main/Rubik's Cube Solving Robot Reddit Post.md",
     "Main",
     "Untitled/Rubik's Cube Solving Robot Reddit Post.md",
     "Welcome.md"
