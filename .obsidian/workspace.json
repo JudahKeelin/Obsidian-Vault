@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "98011174c28f9c12",
+        "id": "6da5c2fffaa516f9",
         "type": "tabs",
         "children": [
           {
-            "id": "8679e50d968221af",
+            "id": "9314981e45dfd528",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
+                "file": "Reddit/Rubik's Cube Solving Robot Reddit Post.md",
                 "staged": false
               }
             }
@@ -150,17 +150,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8679e50d968221af",
+  "active": "9314981e45dfd528",
   "lastOpenFiles": [
+    "Work/VER-4580/Fix Components Being Orphaned By Assets.md",
+    "Work/VER-5792/Add Component Breadcrumb to component list in Matrix Role editing.md",
+    "Reddit/Rubik's Cube Solving Robot Reddit Post.md",
     "School",
     "New folder",
     "Rubik's Cube Solving Robot Reddit Post.md",
-    "Reddit/Rubik's Cube Solving Robot Reddit Post.md",
     "Reddit",
-    "Work/VER-5792/Add Component Breadcrumb to component list in Matrix Role editing.md",
     "Work/VER-5792",
     "Work/VER-4580/new 1.txt",
-    "Work/VER-4580/Fix Components Being Orphaned By Assets.md",
     "Work/VER-4580",
     "Work",
     "VER-4580/new 1.txt",
@@ -169,7 +169,6 @@
     "VER-5792/Add Component Breadcrumb to component list in Matrix Role editing.md",
     "VER-5792",
     "Github Token.md",
-    "Main",
     "Untitled/Rubik's Cube Solving Robot Reddit Post.md",
     "Welcome.md"
   ]
