@@ -6,3 +6,4 @@
 6. Salary Range
 7. What will my first day, week, month, and 6 months look like. What does succes look like in those early stages?
 8. when should I expect to hear back?
+9. how many rounds of interviews is typical?
