@@ -1,0 +1,8 @@
+[[Can you give an example of how you solved a challenging technical problem]]
+[[Describe a situation where you collaborated with others to achieve a project goal]]
+[[How do you prioritize tasks in a fast-paced environment]]
+[[Tell me about a time you made a mistake. How did you handle it]]
+[[Tell me about a time you had to quickly learn a new technology or framework]]
+[[What do you do when faced with a problem you don’t know how to solve]]
+[[What motivates you to grow in your career]]
+[[Why are you interested in this role and or company]]
