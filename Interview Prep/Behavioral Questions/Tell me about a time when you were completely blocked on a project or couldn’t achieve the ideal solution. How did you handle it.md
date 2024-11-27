@@ -1,0 +1,7 @@
+During my internship, I worked on a bug in our workflow builder where questions would occasionally duplicate. It was an incredibly rare issue, only occurring a handful of times over the past two years, and two other developers had already tried to fix it without success.
+
+I spent over a week digging into the code and testing in our beta environment, but I was only able to reproduce the bug once during that time. After exhausting all leads, I realized that finding the root cause within a reasonable timeframe wasn’t feasible.
+
+Instead of continuing to search without results, I shifted my focus to mitigation. I added detailed logging to the front and back end around all CRUD operations related to the workflow builder. These logs were designed to flag potential issues and provide actionable data in Azure Application Insights. While this didn’t completely solve the problem, it reduced the likelihood of the bug occurring and gave the team better visibility to investigate further in the future.
+
+This experience taught me the importance of balancing ideal solutions with practical steps to move the project forward. Sometimes, a temporary fix or added clarity is the best way to manage rare, complex issues.

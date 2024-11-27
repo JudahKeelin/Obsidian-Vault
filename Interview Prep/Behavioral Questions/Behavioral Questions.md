@@ -6,3 +6,4 @@
 [[What do you do when faced with a problem you don’t know how to solve]]
 [[What motivates you to grow in your career]]
 [[Why are you interested in this role and or company]]
+[[Tell me about a time when you were completely blocked on a project or couldn’t achieve the ideal solution. How did you handle it]]
