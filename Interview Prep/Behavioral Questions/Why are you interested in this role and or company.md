@@ -1,0 +1,3 @@
+I’m excited about this role primarily because of the opportunity for growth. CGI is a large company with a strong reputation, offering plenty of opportunities to learn from experienced senior developers and grow both laterally and vertically. I also know several very smart people who work for CGI, and seeing them thrive and stick with the company reassures me that it’s a great place for a long-term career.
+
+This role also aligns with my goals to take on meaningful challenges and continue developing my skills, which makes CGI an ideal environment for me to contribute and grow.

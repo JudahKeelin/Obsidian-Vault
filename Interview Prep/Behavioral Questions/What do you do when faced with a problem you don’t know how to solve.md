@@ -1,0 +1,3 @@
+When I encounter a problem I don’t know how to solve, I start by identifying what information I’m missing. If it’s a lack of knowledge about the framework or language, I typically turn to the documentation for guidance. If the issue is related to the schema or understanding why something is done a certain way, I schedule a meeting with a senior developer to clarify.
+
+This approach usually gives me the context I need to work through the roadblock and arrive at a satisfactory solution. It also helps me build my knowledge base for similar problems in the future.

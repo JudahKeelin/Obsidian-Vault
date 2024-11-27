@@ -1,0 +1,5 @@
+I’m really motivated by the challenge of solving complex problems and optimizing solutions. I enjoy building things, but I especially love making sure my work is efficient in terms of time and space. For example, one of my favorite tasks was designing a cascading delete feature during my internship. It required a more complex approach than anything I’d done before, and seeing how it improved usability for the team made it really rewarding.
+
+Long-term, I’d like to grow into a senior developer or architect role, focusing on backend development with tools like .NET and C#. I’m passionate about improving my skills, especially in understanding the low-level details of frameworks and tools. I want to avoid relying on "black boxes" in my code, so learning what’s happening behind the scenes is really important to me.
+
+Ultimately, I’m motivated by the chance to work on projects that directly impact users. I’d also like to work in a role that allows for remote flexibility and regular hours, so I can plan and balance my life while continuing to contribute to meaningful projects. Knowing that I’m building toward that goal keeps me motivated to grow every day.

@@ -44,11 +44,15 @@
 ---
 16. **Driving Force of Mesozoic Tectonics:** The subduction of the oceanic Farallon plate beneath the North American plate.
 
-17. **Franciscan Complex Rocks:** Includes graywackes, volcanic breccias, pillow basalts, and high-pressure metamorphic blueschists.
+17. **Franciscan Complex Rocks:** 
+	1. graywackes
+	2. volcanic breccias
+	3. pillow basalts
+	4. high-pressure metamorphic blueschists.
 
 18. **Nevadan Orogeny Rocks:** Emplacement of large granite batholiths in the Sierra Nevada due to subduction-related volcanism.
 
-19. **True/False - Volcanic Regions and Subduction Angles:** False.
+19. **False.** The main cause of the Sevier orogeny was a shallower subduction angle of the Farallon plate beneath North America, which shifted tectonic activity further inland, creating mountain ranges in the Rocky Mountain region.
 
 20. **Cause of Sevier Orogeny:** A decrease in the angle of the subducting plate, moving tectonic activity eastward.
 
@@ -65,7 +69,12 @@
 
 24. **True/False - Accretion of Terranes:** True. Over 25% of western North America’s margin is from accreted terranes.
 
-25. **Mesozoic Mineral Resources:** Includes coal, petroleum, uranium, gold, and copper.
+25. **Mesozoic Mineral Resources:**
+	1. Includes coal
+	2. petroleum
+	3. uranium
+	4. gold
+	5. copper.
 
 26. **World's Largest Copper Deposits:** Located along the western margins of North and South America, formed during Mesozoic and Cenozoic.
 
